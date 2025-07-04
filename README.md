@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ahmed Raza Khan</h1>
-<h3 align="center">A passionate fullstack developer</h3>
+<!-- <h3 align="center">fullstack developer</h3> -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Fullstack+Engineer;Building+Amazing+Web+Apps;Always+Learning+New+Tech" alt="Typing SVG" />
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedrazakhanlabs&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedrazakhanlabs" /> </p>
 
