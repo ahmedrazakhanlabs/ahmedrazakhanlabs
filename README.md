@@ -4,9 +4,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Fullstack+Engineer;Building+Amazing+Web+Apps;Always+Learning+New+Tech" alt="Typing SVG" />
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedrazakhanlabs&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedrazakhanlabs" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedrazakhann&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedrazakhann" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedrazakhanlabs" alt="ahmedrazakhanlabs" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedrazakhann" alt="ahmedrazakhann" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/ahmedrazak35469" target="blank"><img src="https://img.shields.io/twitter/follow/ahmedrazak35469?logo=twitter&style=for-the-badge" alt="ahmedrazak35469" /></a> </p>
 
