@@ -18,7 +18,7 @@
 
 - 👨‍💻 All of my projects are available at [https://ahmed-portfolio-seven.vercel.app/](https://ahmed-portfolio-seven.vercel.app/)
 
-- 💬 Ask me about **React.js, Next.js, Tailwind CSS, Bootstrap, Node.js, Express.js, and AdonisJS**
+- 💬 Ask me about **Node.js, Express.js, AdonisJS, React.js, Next.js, Tailwind CSS and Bootstrap. **
 
 - 📫 How to reach me **ahmedrazakhank112@gmail.com**
 
